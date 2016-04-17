@@ -1,0 +1,3680 @@
+<gudid>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012409645</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012429926</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012409645</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>900RD101</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>GAS INLET ADAPTOR - 10 PACK
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>true</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions/>
+  <fdaListings>
+    <fdaListingNumber>D069796</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BYX</productCode>
+      <productCodeName>Tubing, Pressure And Accessories</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430007</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012424211</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430007</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1330-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK35 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429797</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012401472</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429797</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>900MR191X</versionModelNumber>
+  <catalogNumber xsi:nil="true"></catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>WATER FEED SET EXTENSION 10CTN
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K953949</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D054997</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>12050</gmdnPTCode>
+      <gmdnPTName>Heated respiratory humidifier</gmdnPTName>
+      <gmdnPTDefinition>A mains electricity (AC-powered) device designed to heat and humidify air/oxygen inspired by a patient to help maintain the mucous membranes of the respiratory tract typically during periods of prolonged respiratory support/therapy (e.g., mechanical ventilation, BPAP/CPAP therapy). The heated/humidified gases are delivered to the patient&apos;s airway and lungs via the nose/mouth or a tracheostoma in association with a parent respiratory device (e.g., ventilator, BPAP/CPAP unit). The humidifier typically includes a heating element and provisions for attaching a humidification chamber and tubing set.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>CAW</productCode>
+      <productCodeName>Generator, Oxygen, Portable</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429780</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012401465</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429780</containsDINumber>
+      <pkgQuantity>30</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>900MR190</versionModelNumber>
+  <catalogNumber xsi:nil="true"></catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>WATER FEED SET - 1USE 30/CTN
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K953949</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D054997</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>12050</gmdnPTCode>
+      <gmdnPTName>Heated respiratory humidifier</gmdnPTName>
+      <gmdnPTDefinition>A mains electricity (AC-powered) device designed to heat and humidify air/oxygen inspired by a patient to help maintain the mucous membranes of the respiratory tract typically during periods of prolonged respiratory support/therapy (e.g., mechanical ventilation, BPAP/CPAP therapy). The heated/humidified gases are delivered to the patient&apos;s airway and lungs via the nose/mouth or a tracheostoma in association with a parent respiratory device (e.g., ventilator, BPAP/CPAP unit). The humidifier typically includes a heating element and provisions for attaching a humidification chamber and tubing set.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>CAW</productCode>
+      <productCodeName>Generator, Oxygen, Portable</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430113</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012418517</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430113</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD803-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MASK ROUND 35MM FPH (10) S/USE
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>true</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions/>
+  <fdaListings>
+    <fdaListingNumber>R017276</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BYG</productCode>
+      <productCodeName>Mask, Oxygen</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429902</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012426833</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429902</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT043S</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>SML SUM FACE NRV NONVENT 10/BX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K060044</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>E434504</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>MNT</productCode>
+      <productCodeName>Ventilator, Continuous, Minimal Ventilatory Support,Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430038</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012423870</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430038</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1341-10</versionModelNumber>
+  <catalogNumber xsi:nil="true"></catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK42 GASLINE 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430045</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012424235</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430045</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1350-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK50 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429896</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012426857</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429896</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT043L</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>LRG SUM FACE NRV NONVENT 10/BX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K060044</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>E434504</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>MNT</productCode>
+      <productCodeName>Ventilator, Continuous, Minimal Ventilatory Support,Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429889</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012426840</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429889</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT043M</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MED SUM FACE NRV NONVENT 10/BX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K060044</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>E434504</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>MNT</productCode>
+      <productCodeName>Ventilator, Continuous, Minimal Ventilatory Support,Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429827</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012419446</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429827</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT040L</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>LRG SU FACE MASK VENTED 10/BOX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>true</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K060044</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>E434504</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>MNT</productCode>
+      <productCodeName>Ventilator, Continuous, Minimal Ventilatory Support,Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430014</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012423863</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430014</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1331-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK35 GASLINE 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430106</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012423900</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430106</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1371-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK72 GASLINE 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429810</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012403315</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429810</containsDINumber>
+      <pkgQuantity>20</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT008</versionModelNumber>
+  <catalogNumber>0T29</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>ENTRAINER AIR 22MM FEMALE 20BX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K953711</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D016089</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BZR</productCode>
+      <productCodeName>Mixer, Breathing Gases, Anesthesia Inhalation</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012410931</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RD900AEU</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>NEOPUFF INFANT RESUSCITATOR EN
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>false</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>true</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>13366</gmdnPTCode>
+      <gmdnPTName>Pulmonary resuscitator, pneumatic, reusable</gmdnPTName>
+      <gmdnPTDefinition>A device designed to provide or assist ventilation in a patient who is apnoeic or exhibits inadequate respiration through automatic pneumatic-driven pressure cycle functions. It is connected to a source of compressed oxygen (O2) and, if not entrained, medical air via oxygen/air terminal units or gas cylinder(s). It typically includes gas supply tubing, a breathing circuit with, e.g., a gas control modulator, gas connector(s), safety valves, and a flex connector to connect to a face mask or endotracheal (ET) tube. It is used in ambulances, intensive care units (ICU), during internal patient transfer, accident and emergency (A&amp;E), and mass casualty incidents (MCI). This is a reusable device.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430052</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012423887</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430052</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1351-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK50 GASLINE 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430076</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012424242</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430076</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1360-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK60 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430151</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012418555</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430151</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RD807-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MASK ROUND 72MM FPH (10) S/USE
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>true</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions/>
+  <fdaListings>
+    <fdaListingNumber>R017276</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BYG</productCode>
+      <productCodeName>Mask, Oxygen</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429865</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012421500</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429865</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT041M</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>SU FACE MASK NON VENTED 10/BOX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K083122</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D073693</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>CBK</productCode>
+      <productCodeName>Ventilator, Continuous, Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430090</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012424259</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430090</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1370-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK72 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429858</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012421494</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429858</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RT041L</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>SU FACE MASK NON VENTED 10/BOX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K083122</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D073693</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>CBK</productCode>
+      <productCodeName>Ventilator, Continuous, Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012420343</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD020-01</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>TEST LUNG NON LATEX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>false</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>true</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>12408</gmdnPTCode>
+      <gmdnPTName>Lung simulator</gmdnPTName>
+      <gmdnPTDefinition>A device used to simulate/mimic the human lung or lungs by imitating their physical properties. This device, commonly known as a test lung, may be a simple ventilation bag filled with foam rubber, or a complicated device, usually mechanical, that can be adjusted to imitate, e.g., change in compliance, airway restrictions, lung perforation. It is intended to be used by a healthcare provider in a clinical setting for the purpose of, e.g., maintenance, testing, user control of a ventilator and for the education of clinical staff.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429933</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012413215</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429933</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>900RD010</versionModelNumber>
+  <catalogNumber xsi:nil="true"></catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>S/USE RESUS KIT W/O MASK (10)
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>true</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430144</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012418548</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430144</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RD806-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MASK ROUND 60MM FPH (10) S/USE
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>true</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions/>
+  <fdaListings>
+    <fdaListingNumber>R017276</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BYG</productCode>
+      <productCodeName>Mask, Oxygen</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012416582</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429971</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate>2015-09-23</pkgDiscontinueDate>
+      <pkgStatus>Not in Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012429971</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>900RD110</versionModelNumber>
+  <catalogNumber xsi:nil="true"></catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>RESUS HUMID S/USE W/O MSK (10)
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>true</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429841</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012419422</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429841</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT040S</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>SML SU FACE MASK VENTED 10/BOX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K060044</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>E434504</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>MNT</productCode>
+      <productCodeName>Ventilator, Continuous, Minimal Ventilatory Support,Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429872</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012421517</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429872</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT041S</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>SU FACE MASK NON VENTED 10/BOX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K083122</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D073693</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>CBK</productCode>
+      <productCodeName>Ventilator, Continuous, Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430083</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012423894</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430083</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1361-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK60 GASLINE 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430021</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012424228</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430021</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1340-10</versionModelNumber>
+  <catalogNumber xsi:nil="true"></catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ MSK42 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429988</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012424204</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429988</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1300-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429995</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012423924</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429995</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RD1301-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>KIT RESUS ADJ GASLINE 10
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts/>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012420497</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>BC115-05</versionModelNumber>
+  <catalogNumber xsi:nil="true"></catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MANIFOLD PRESSURE O2 THERAPY
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K040366</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D016087</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>34142</gmdnPTCode>
+      <gmdnPTName>Pressure relief valve, single-use</gmdnPTName>
+      <gmdnPTDefinition>A non-sterile device used to regulate the maximum pressure level in a circuit or system (typically containing gas) where it is essential not to exceed a pre-set maximum pressure. Should this pressure level be exceeded, this device will automatically open and vent the excess pressure from the circuit/system ensuring that an excessive pressure level is not sustained, thereby preventing damage to the patient or a parent device. It is typically used in anaesthesia machines and ventilators forming part of the breathing/gas delivery circuit/system, but may be applied to other functions. This is a single-use device.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>CBP</productCode>
+      <productCodeName>Valve, Non-Rebreathing</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429940</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012420305</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429940</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>900RD014-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>S/USE RESUS KIT W 42MM MSK(10)
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>true</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429957</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012420312</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429957</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>900RD015-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>S/USE RESUS KIT W 50MM MSK(10)
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>true</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429834</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012419439</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429834</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RT040M</versionModelNumber>
+  <catalogNumber>0T30</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MED SU FACE MASK VENTED 10/BOX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K060044</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>E434504</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>MNT</productCode>
+      <productCodeName>Ventilator, Continuous, Minimal Ventilatory Support,Facility Use</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430120</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012418524</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430120</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RD804-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MASK ROUND 42MM FPH (10) S/USE
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>true</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions/>
+  <fdaListings>
+    <fdaListingNumber>R017276</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BYG</productCode>
+      <productCodeName>Mask, Oxygen</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012430137</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012418531</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012430137</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE </brandName>
+  <versionModelNumber>RD805-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>MASK ROUND 50MM FPH (10) S/USE
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>true</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions/>
+  <fdaListings>
+    <fdaListingNumber>R017276</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BYG</productCode>
+      <productCodeName>Mask, Oxygen</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429803</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012403308</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429803</containsDINumber>
+      <pkgQuantity>20</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>RT001</versionModelNumber>
+  <catalogNumber>0T29</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>ENTRAINER AIR 20BX
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>false</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K953711</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D016089</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BZR</productCode>
+      <productCodeName>Mixer, Breathing Gases, Anesthesia Inhalation</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+<device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.fda.gov/cdrh/gudid">
+  <deviceRecordStatus>Published</deviceRecordStatus>
+  <devicePublishDate>2015-09-25</devicePublishDate>
+  <deviceCommDistributionEndDate xsi:nil="true"></deviceCommDistributionEndDate>
+  <deviceCommDistributionStatus>In Commercial Distribution</deviceCommDistributionStatus>
+  <identifiers>
+    <identifier>
+      <deviceId>09420012429964</deviceId>
+      <deviceIdType>Primary</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber xsi:nil="true"></containsDINumber>
+      <pkgQuantity xsi:nil="true"></pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus xsi:nil="true"></pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+    <identifier>
+      <deviceId>09420012420329</deviceId>
+      <deviceIdType>Package</deviceIdType>
+      <deviceIdIssuingAgency>GS1</deviceIdIssuingAgency>
+      <containsDINumber>09420012429964</containsDINumber>
+      <pkgQuantity>10</pkgQuantity>
+      <pkgDiscontinueDate xsi:nil="true"></pkgDiscontinueDate>
+      <pkgStatus>In Commercial Distribution</pkgStatus>
+      <pkgType xsi:nil="true"></pkgType>
+    </identifier>
+  </identifiers>
+  <brandName>FISHER &amp; PAYKEL HEALTHCARE</brandName>
+  <versionModelNumber>900RD016-10</versionModelNumber>
+  <catalogNumber>0W90</catalogNumber>
+  <dunsNumber>590153276</dunsNumber>
+  <companyName>FISHER &amp; PAYKEL HEALTHCARE LIMITED</companyName>
+  <companyAddress>
+    <street1>15 MAURICE PAYKEL PL</street1>
+    <street2 xsi:nil="true"></street2>
+    <city>EAST TAMAKI AUCKLAND</city>
+    <state xsi:nil="true"></state>
+    <zip xsi:nil="true"></zip>
+    <country>NZ</country>
+  </companyAddress>
+  <deviceCount>1</deviceCount>
+  <deviceDescription>S/USE RESUS KIT W 60MM MSK(10)
+</deviceDescription>
+  <DMExempt>false</DMExempt>
+  <premarketExempt>false</premarketExempt>
+  <deviceHCTP>false</deviceHCTP>
+  <deviceKit>false</deviceKit>
+  <deviceCombinationProduct>false</deviceCombinationProduct>
+  <singleUse>true</singleUse>
+  <lotBatch>true</lotBatch>
+  <serialNumber>false</serialNumber>
+  <manufacturingDate>true</manufacturingDate>
+  <expirationDate>false</expirationDate>
+  <donationIdNumber>false</donationIdNumber>
+  <labeledContainsNRL>false</labeledContainsNRL>
+  <labeledNoNRL>true</labeledNoNRL>
+  <MRISafetyStatus>Labeling does not contain MRI Safety Information</MRISafetyStatus>
+  <rx>true</rx>
+  <otc>false</otc>
+  <contacts>
+    <customerContact>
+      <phone>1 800 446 3908</phone>
+      <phoneExtension xsi:nil="true"></phoneExtension>
+      <email>info@fphcare.com</email>
+    </customerContact>
+  </contacts>
+  <premarketSubmissions>
+    <premarketSubmission>
+      <submissionNumber>K892885</submissionNumber>
+      <supplementNumber>000</supplementNumber>
+    </premarketSubmission>
+  </premarketSubmissions>
+  <fdaListings>
+    <fdaListingNumber>D017886</fdaListingNumber>
+  </fdaListings>
+  <gmdnTerms>
+    <gmdn>
+      <gmdnPTCode>37498</gmdnPTCode>
+      <gmdnPTName>Oxygen therapy system</gmdnPTName>
+      <gmdnPTDefinition>An assembly of devices designed to administer oxygen (O2) to a patient using various methods of oxygen administration (e.g., face mask, nasal canula) at dfferent concentrations (e.g., via a gas mixer), duration of use, and flows. It will connect to an oxygen source and will typically include a flowmeter or flow controlling device, masks, tubing, valves, and/or nasal cannulae. It can also include, e.g., a high pressure gas reduction valve(s) and a pneumatically-powered suction device with collection bottle.</gmdnPTDefinition>
+    </gmdn>
+  </gmdnTerms>
+  <productCodes>
+    <fdaProductCode>
+      <productCode>BTL</productCode>
+      <productCodeName>Ventilator, Emergency, Powered (Resuscitator)</productCodeName>
+    </fdaProductCode>
+  </productCodes>
+  <deviceSizes/>
+  <environmentalConditions/>
+  <sterilization>
+    <deviceSterile>false</deviceSterile>
+    <sterilizationPriorToUse>false</sterilizationPriorToUse>
+    <methodTypes/>
+  </sterilization>
+</device>
+</gudid>
