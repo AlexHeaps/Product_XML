@@ -14,12 +14,15 @@ namespace XML_Generator_GUI
     class XML_Gen
     {
 
+        public List<Items> items = new List<Items>();
+        public XDocument xmlDoc = new XDocument(@"C:\Users\Caroline\Desktop");
+
         //Method to connect to the Database & Pull information out via SQL query
         public void DBConnect()
         {
             //Database Establishment & Connection
             SqlConnection conn = new SqlConnection("server=localhost" +
-                                   ,                "Trusted_Connection=yes" +
+                                                   "Trusted_Connection=yes" +
                                                    "database=TestDatabase" +
                                                    "connection timeout=30" +
                                                    "User ID=username" +
@@ -67,6 +70,11 @@ namespace XML_Generator_GUI
                 //Loop to pull data from single line of text and create String objects of each cell
                 while (reader.Read())
                 {
+
+                    Items item = new Items();
+                    item.name = (reader["Name"].ToString());
+                    item.phone = (reader["Phone"].ToString());
+
                     Name.Text = (reader["Name"].ToString());
                     Phone.Text = (reader["Phone"].ToString());
                     Address.Text = (reader["Address"].ToString());
@@ -74,6 +82,9 @@ namespace XML_Generator_GUI
                     City.Text = (reader["City"].ToString());
                     State.Text = (reader["State"].ToString());
                     PostCode.Text = (reader["PostCode"].ToString());
+
+
+                    items.Add(item);
                 }
             }
 
@@ -94,6 +105,27 @@ namespace XML_Generator_GUI
         //TODO: Get this working with XML DocGen (uses XmlDocument API)
         public void XMLBodyGen()
         {
+
+
+        
+            foreach (Items item in items) {
+                XElement name = new XElement("Name");
+                name.Add(new XAttribute("name", item.name));
+                xmlDoc.Element("Name").Add(name);
+
+
+                xmlDoc.Root.Add(
+                new XElement("Phone",
+                    new XAttribute("name", "name goes here"),
+                    new XElement("phone", item.name))
+                );
+
+
+                xmlDoc.Save(@"C:\TEMP\FOO.XML");
+
+            }
+
+
             XElement contacts =
                 new XElement("Contacts",
                     new XElement("Contact",
@@ -118,4 +150,12 @@ namespace XML_Generator_GUI
             xdoc.Save("test.xml");
         }
     }
+
+    class Items
+    {
+        public string name;
+        public string phone;
+
+    }
+
 }

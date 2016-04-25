@@ -1,1 +1,6 @@
 C:\Users\heapsa\Desktop\GitHub Repos\Product_XML_Gen\XML Generator_GUI\bin\Debug\XML Generator_GUI.exe.config
+C:\Users\Caroline\Documents\GitHub\A9sProj\Product_XML_Gen\XML Generator_GUI\bin\Debug\XML Generator_GUI.exe.config
+C:\Users\Caroline\Documents\GitHub\A9sProj\Product_XML_Gen\XML Generator_GUI\obj\Debug\XML Generator_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Caroline\Documents\GitHub\A9sProj\Product_XML_Gen\XML Generator_GUI\obj\Debug\XML_Generator_GUI.Form1.resources
+C:\Users\Caroline\Documents\GitHub\A9sProj\Product_XML_Gen\XML Generator_GUI\obj\Debug\XML_Generator_GUI.Properties.Resources.resources
+C:\Users\Caroline\Documents\GitHub\A9sProj\Product_XML_Gen\XML Generator_GUI\obj\Debug\XML Generator_GUI.csproj.GenerateResource.Cache
